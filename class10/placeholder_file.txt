@@ -1,0 +1,16 @@
+There are many format specifiers we can use. Here are some common ones:
+
+%b - boolean (true or false)
+%d - decimal integer
+%e - scientific notation with an exponent of e
+%f - floating point
+%g - the shorter of %e and %f
+%o - octal (base 8)
+%p - pointer (address)
+%s - string
+%i - Integer (base 10)
+%u - Unsigned decimal (integer) number
+%x - Hexadecimal number (base 16)
+%t - Date/time
+%c - character
+%n - Newline
